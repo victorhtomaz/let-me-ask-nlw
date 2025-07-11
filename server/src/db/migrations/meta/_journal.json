@@ -15,6 +15,13 @@
       "when": 1752067600283,
       "tag": "0001_sour_power_pack",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752175384356,
+      "tag": "0002_sparkling_callisto",
+      "breakpoints": true
     }
   ]
 }
